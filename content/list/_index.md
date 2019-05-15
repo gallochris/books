@@ -17,6 +17,6 @@ layout = "mylist"
 
 - [Dark Horse](/darkhorse) by Todd Rose and Ogi Ogas
 
-- [The Numbers Games](/numbersgame) by Chris Andersen and David Sally
+- [The Numbers Game](/numbersgame) by Chris Andersen and David Sally
 
 - [Scorecasting](/scorecasting) by Tobias J. Moskowitz and L. Jon Wertheim
