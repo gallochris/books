@@ -1,0 +1,11 @@
+baseURL = "http://books.hotdogsandeggs.com"
+languageCode = "en-us"
+title = "Chris Gallo | Books"
+
+
+theme = "reveal-hugo"
+
+[outputFormats.Reveal]
+baseName = "index"
+mediaType = "text/html"
+isHTML = true
