@@ -20,3 +20,5 @@ layout = "mylist"
 - [The Numbers Game](/numbersgame) by Chris Andersen and David Sally
 
 - [Scorecasting](/scorecasting) by Tobias J. Moskowitz and L. Jon Wertheim
+
+- [The Tao Jones Averages](/taojones) by Bennett W. Goodspeed 
