@@ -22,3 +22,5 @@ layout = "mylist"
 - [Scorecasting](/scorecasting) by Tobias J. Moskowitz and L. Jon Wertheim
 
 - [The Tao Jones Averages](/taojones) by Bennett W. Goodspeed 
+
+- [How to Decide](/howtodecide) by Annie Duke

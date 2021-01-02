@@ -102,6 +102,7 @@ Add the shortcode above the slide's content, below the `---`.
 ```
 
 <br>
+
 [Try the link](#custom-slide)
 
 ---
@@ -182,6 +183,10 @@ If a template exists in multiple configurations, it's properties will be merged.
 {{% section %}}
 
 {{< slide content="home.reusable" >}}
+
+---
+
+{{< slide content="common.nested.reusable" >}}
 
 {{% /section %}}
 

@@ -5,6 +5,17 @@ title = "Chris Gallo | Books"
 
 theme = "reveal-hugo"
 
+# currently only the unsafe mode for goldmark is supported
+[markup.goldmark.renderer]
+unsafe = true
+
+# choose between Hugo compile-time or Highlight.js
+# syntax highlighting for code inside of code fences
+[markup.highlight]
+codeFences = false  # use highlight.js 
+# codeFences = true  # use hugo highlighting at compile time
+style = "tango"  # set a style for hugo highlighting
+
 [outputFormats.Reveal]
 baseName = "index"
 mediaType = "text/html"
