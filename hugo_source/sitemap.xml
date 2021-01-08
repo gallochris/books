@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -8,11 +8,14 @@
   
   <url>
     <loc>http://books.hotdogsandeggs.com/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://books.hotdogsandeggs.com/</loc>
+  </url>
+  
+  <url>
+    <loc>http://books.hotdogsandeggs.com/competingagainstluck/</loc>
   </url>
   
   <url>
@@ -21,6 +24,10 @@
   
   <url>
     <loc>http://books.hotdogsandeggs.com/gridirongenius/</loc>
+  </url>
+  
+  <url>
+    <loc>http://books.hotdogsandeggs.com/howtodecide/</loc>
   </url>
   
   <url>
@@ -33,11 +40,14 @@
   
   <url>
     <loc>http://books.hotdogsandeggs.com/tags/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://books.hotdogsandeggs.com/numbersgame/</loc>
+  </url>
+  
+  <url>
+    <loc>http://books.hotdogsandeggs.com/taojones/</loc>
   </url>
   
   <url>
