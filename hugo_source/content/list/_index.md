@@ -24,3 +24,5 @@ layout = "mylist"
 - [The Tao Jones Averages](/taojones) by Bennett W. Goodspeed 
 
 - [How to Decide](/howtodecide) by Annie Duke
+
+- [Competing Against Luck](/competingagainstluck) by Clayton Christensen
