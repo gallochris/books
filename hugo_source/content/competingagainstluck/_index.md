@@ -83,7 +83,7 @@ Story of innovation and customer choice
 
 ## Jobs in the wild
 
-- blue ocean strategry (don't compete on features, compete for different situations)
+- blue ocean strategy (don't compete on features, compete for different situations)
 
 - build the right set of experiences in how customers find, purchase, and use your product
 
