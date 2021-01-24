@@ -26,3 +26,5 @@ layout = "mylist"
 - [How to Decide](/howtodecide) by Annie Duke
 
 - [Competing Against Luck](/competingagainstluck) by Clayton Christensen
+
+- [Mental Models](/mentalmodels) by Kevin Wagonfoot (Charlie Munger)
