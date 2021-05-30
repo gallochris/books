@@ -31,4 +31,4 @@ layout = "mylist"
 
 - [Effortless](/effortless) by Greg McKeown
 
-- [The Art of Nonviolent Communication](nonviolentcomm) by Micah Salaberrios (Marshall Rosenberg)
+- [The Art of Nonviolent Communication](/nonviolentcomm) by Micah Salaberrios (Marshall Rosenberg)
