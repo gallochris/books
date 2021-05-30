@@ -30,3 +30,5 @@ layout = "mylist"
 - [Mental Models](/mentalmodels) by Kevin Wagonfoot (Charlie Munger)
 
 - [Effortless](/effortless) by Greg McKeown
+
+- [The Art of Nonviolent Communication](nonviolentcomm) by Micah Salaberrios (Marshall Rosenberg)
